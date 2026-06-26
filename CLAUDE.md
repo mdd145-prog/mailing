@@ -35,7 +35,7 @@ Para referencia (no necesariamente consumidas por este repo):
 
 | Skill | Área en LIGIER | Para qué sirve |
 |---|---|---|
-| `seleccion-productos-mailing` | `marketing/` | Reglas de stock/presentación/promo cuando una pieza muestra productos |
+| `lgr-armado-mailing` | `marketing/` | Reglas duras para armar piezas de mailing: stock, presentación 750ml, promos validadas con cart real |
 | `redactor-ligier` (en lgr) | _pendiente migrar a LIGIER_ | Voz, copy y propuesta de venta |
 
 ---
